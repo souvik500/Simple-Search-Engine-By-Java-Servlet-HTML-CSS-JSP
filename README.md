@@ -1,5 +1,5 @@
 
-# Search Engine in java
+# Search Engine in java Servlet
 
 The purpose of this project is to find any word very quickly. Here i use only one particular website and i search any keyword from that website's pages
 
